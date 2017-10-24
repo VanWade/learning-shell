@@ -1,0 +1,2 @@
+echo $BASH_SOURCE
+dirname $BASH_SOURCE
